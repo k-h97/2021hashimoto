@@ -1,0 +1,29 @@
+.title {
+  display: flex;
+  justify-content: space-between;
+  margin: 1% 5% 0 5%;
+}
+.title-ttl {
+  font-size: 150%;
+  color: rgb(15, 15, 163);
+}
+.title-cont li {
+  display: inline;
+  font-weight: bold;
+}
+.gazo-dai {
+  width: 43%;
+  position: relative;
+  top: 100px;
+  left: 700px;
+}
+.gazo-text {
+  font-size: 300%;
+  margin-left: 5%;
+}
+.gazo-box {
+  background-color: rgb(13, 13, 114);
+  width: 60%;
+  height: 150px;
+  margin-left: 5%;
+}
