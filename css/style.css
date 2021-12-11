@@ -10,12 +10,13 @@
 .title-cont li {
   display: inline;
   font-weight: bold;
+  margin-left: 15px;
 }
 .gazo-dai {
   width: 43%;
   position: relative;
   top: 100px;
-  left: 700px;
+  left: 45%;
 }
 .gazo-text {
   font-size: 300%;
